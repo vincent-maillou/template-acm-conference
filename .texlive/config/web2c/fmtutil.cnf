@@ -1,0 +1,1 @@
+pdflatex pdftex - -translate-file=cp227.tex *pdflatex.ini

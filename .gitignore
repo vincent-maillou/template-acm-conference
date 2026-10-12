@@ -1,0 +1,19 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.spl
+*.xdv
+comment.cut
+
+# Compiled output
+main.pdf
+# Repo-local TeX Live state: generated formats/font maps (config + map
+# sources in .texlive/config and .texlive/texmf-local are tracked)
+.texlive/var/
